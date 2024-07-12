@@ -14,9 +14,15 @@ Java / GUI
 
 Features:
 Difficulty Selection: Choose different levels for varying skill levels. <br>
+
 How to Play: Tutorial guides new players through game mechanics.<br>
+
 Lives: Limited lives add strategic depth.<br>
+
 Scoring System: Tracks performance and points for motivation.<br>
+
 Answer Feedback: Instant feedback after each answer.<br>
+
 Sound Effects: Enhance experience with sound cues.<br>
+
 Hint System: Provides clues for challenging puzzles.<br>
