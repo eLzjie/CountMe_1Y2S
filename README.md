@@ -11,23 +11,35 @@ Java / GUI
 
 Features:
 
-Difficulty Selection
+Difficulty Selection:
+
 Players can choose different levels to adjust the gaming experience to their skill level, ensuring an enjoyable experience for both beginners and advanced players.
 
-How to Play
+How to Play:
+
 A comprehensive tutorial guides players through the game mechanics and counting principles to ensure a smooth start for new players.
 
-Lives
+Lives:
+
+
 layers have a limited number of lives to complete puzzles, adding a strategic element to gameplay and avoiding overs.
 
-Scoring System
+Scoring System:
+
+
 Tracks players' performance and points in solving puzzles and provides a sense of achievement and motivation for improvement.
 
-Answer Feedback
+Answer Feedback:
+
+
 Instant feedback is provided to players after each answer, indicating whether their response is correct or wrong, helping them learn from their mistakes and refine their logical thinking skills.
 
-Sound Effects
+Sound Effects:
+
+
 Add simple sound effects to enhance the gaming experience, such as cheerful tones for correct answers and alert sounds for incorrect ones.
 
-Hint System 
+Hint System:
+
+
 Provides players with helpful clues or guidance when they get stuck on difficult puzzles, ensuring that players can progress through the game without becoming frustrated.
