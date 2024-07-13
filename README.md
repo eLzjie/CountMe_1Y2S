@@ -4,7 +4,7 @@ Objective:
 To provide an enjoyable and educational experience for users of different ages, offering a variety of challenging logical questions and interactive elements.
 
 • First Year - Second Semester Final Project
-Java / GUI 
+Java / GUI / Figma 
 
 ![image](https://github.com/user-attachments/assets/d3afc78c-b8de-488c-992f-8c69addf4c2f)
 
